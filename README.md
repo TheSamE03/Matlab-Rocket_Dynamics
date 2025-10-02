@@ -9,8 +9,8 @@ This is an ongoing project subject to updates and additions
 
 ## Functions
 - **Flight Control Functions**
-  - Dynamic braking logic (margin-based control) with tunable parameters
-  - Simple drag force calculator
+  - Dynamic braking logic (margin-based control) with tunable parameters [here](brakingCalculator.m)
+  - Simple drag force calculator [here](simpleDragCalculator.m)
 
 ---
 
