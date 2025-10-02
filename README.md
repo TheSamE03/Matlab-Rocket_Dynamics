@@ -15,4 +15,4 @@ This is an ongoing project subject to updates and additions
 ---
 
 ## License 
-This project is licensed under the MIT License. See LICENSE for details. 
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details. 
